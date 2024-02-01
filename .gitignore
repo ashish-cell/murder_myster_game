@@ -1,0 +1,10 @@
+my_mystery_game_env/
+*.pyc
+__pycache__/
+.DS_Store
+Thumbs.db
+*.csv
+*.xlsx
+.vscode/
+.idea/
+*.log
